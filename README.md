@@ -1,7 +1,7 @@
 # TotemSMP
 The code and information needed to run the totemsmp daily.
 
-###### **Datapacks**
+## **Datapacks**
 All datapacks can be found at https://vanillatweaks.net/picker/datapacks/
 
 Armor Statues 
