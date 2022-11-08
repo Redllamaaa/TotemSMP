@@ -29,3 +29,16 @@ Silence Mobs
 
 Wandering Heads
 
+## **Crafting Tweaks**
+
+All Crafting Tweaks can be found at https://vanillatweaks.net/picker/crafting-tweaks/
+
+**Quality of Life**
+
+Universal Dyeing
+Straight to Shapeless
+Powder to Glass
+
+**Craftables**
+
+Craftable Gravel
