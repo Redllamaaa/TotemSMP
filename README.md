@@ -8,11 +8,17 @@ All datapacks can be found at https://vanillatweaks.net/picker/datapacks/
 **Survival**
 
 Armor Statues 
+
 Afk Display
+
 Multiplayer Sleep
+
 Durability Ping
+
 Nether Portal Cords
+
 Coordinates Hud
+
 
 **Items**
 
@@ -21,8 +27,11 @@ Player Head Drops
 **Mobs**
 
 Anti Enderman Grief
+
 Double Shulker Shells
+
 More Mob Heads
+
 Silence Mobs
 
 **Hermitcraft**
@@ -36,7 +45,9 @@ All Crafting Tweaks can be found at https://vanillatweaks.net/picker/crafting-tw
 **Quality of Life**
 
 Universal Dyeing
+
 Straight to Shapeless
+
 Powder to Glass
 
 **Craftables**
