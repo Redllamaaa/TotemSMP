@@ -1,0 +1,310 @@
+{
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_chainmail_chestplate": "2022-05-16 03:07:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2022-05-24 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "craftable_bundles_leather:recipes/bundle_leather": {
+    "criteria": {
+      "has_leather": "2022-05-16 03:07:00 +0000",
+      "has_string": "2022-05-16 03:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2022-05-24 03:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/bread": {
+    "criteria": {
+      "has_item": "2022-05-16 03:07:00 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:fast_leaf_decay": {
+    "criteria": {
+      "tick": "2022-05-16 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "coral_blocks:recipes/building_blocks/coral/fire_coral_block": {
+    "criteria": {
+      "has_fan": "2022-05-16 03:07:00 +0000",
+      "has_coral": "2022-05-16 03:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:bamboo_jungle": "2022-05-16 03:06:48 +0000",
+      "minecraft:beach": "2022-05-16 03:13:29 +0000",
+      "minecraft:lukewarm_ocean": "2022-05-16 03:13:56 +0000",
+      "minecraft:river": "2022-05-16 03:08:01 +0000",
+      "minecraft:swamp": "2022-05-16 03:15:34 +0000",
+      "minecraft:jungle": "2022-05-16 03:08:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2022-05-24 03:01:54 +0000"
+    },
+    "done": true
+  },
+  "armor_statues:enable": {
+    "criteria": {
+      "tick": "2022-05-16 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2022-05-24 03:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2022-05-16 03:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-05-16 03:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2022-05-24 03:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-05-16 03:09:08 +0000"
+    },
+    "done": true
+  },
+  "coral_blocks:recipes/building_blocks/coral/horn_coral_block": {
+    "criteria": {
+      "has_fan": "2022-05-16 03:07:00 +0000",
+      "has_coral": "2022-05-16 03:07:00 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:coordinates_hud": {
+    "criteria": {
+      "tick": "2022-05-16 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2022-05-24 03:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-05-16 03:09:08 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:armor_statues": {
+    "criteria": {
+      "tick": "2022-05-16 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "coral_blocks:recipes/building_blocks/coral/bubble_coral_block": {
+    "criteria": {
+      "has_fan": "2022-05-16 03:07:00 +0000",
+      "has_coral": "2022-05-16 03:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/shulker_box": {
+    "criteria": {
+      "has_chest": "2022-05-16 03:07:00 +0000",
+      "has_item": "2022-05-16 03:07:00 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:silence_mobs": {
+    "criteria": {
+      "tick": "2022-05-16 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2022-05-24 03:01:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-05-16 03:09:08 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:more_mob_heads": {
+    "criteria": {
+      "tick": "2022-05-16 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-05-16 03:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2022-05-24 03:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-05-16 03:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2022-05-16 03:12:29 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2022-05-16 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:double_shulker_shells": {
+    "criteria": {
+      "tick": "2022-05-16 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "carrot": "2022-05-16 03:15:50 +0000"
+    },
+    "done": false
+  },
+  "coral_blocks:recipes/building_blocks/coral/tube_coral_block": {
+    "criteria": {
+      "has_fan": "2022-05-16 03:07:00 +0000",
+      "has_coral": "2022-05-16 03:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2022-05-24 03:01:54 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:player_head_drops": {
+    "criteria": {
+      "tick": "2022-05-16 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:classic_fishing_loot": {
+    "criteria": {
+      "tick": "2022-05-16 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2022-05-16 03:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_chainmail_chestplate": "2022-05-16 03:07:47 +0000"
+    },
+    "done": true
+  },
+  "coral_blocks:recipes/building_blocks/coral/brain_coral_block": {
+    "criteria": {
+      "has_fan": "2022-05-16 03:07:00 +0000",
+      "has_coral": "2022-05-16 03:07:00 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2022-05-16 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/paper": {
+    "criteria": {
+      "has_item": "2022-05-16 03:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-05-16 03:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2022-05-24 03:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2022-05-24 03:01:54 +0000"
+    },
+    "done": true
+  },
+  "craftable_bundles_rabbit_hide:recipes/bundle_rabbit_hide": {
+    "criteria": {
+      "has_rabbit_hide": "2022-05-16 03:07:00 +0000",
+      "has_string": "2022-05-16 03:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2022-05-16 03:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2022-05-24 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2022-05-24 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}
