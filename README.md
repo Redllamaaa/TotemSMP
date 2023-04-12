@@ -1,6 +1,8 @@
 # TotemSMP
 The code and information needed to run the totemsmp daily.
 
+![Totem_club](https://user-images.githubusercontent.com/91138418/231491242-46d42cb4-ad0c-4eda-8f7e-8f0028d122f6.png)
+
 ## **Datapacks**
 
 All datapacks can be found at https://vanillatweaks.net/picker/datapacks/
