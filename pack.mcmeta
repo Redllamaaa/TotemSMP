@@ -1,7 +1,6 @@
 {
     "pack": {
         "pack_format": 15,
-        "name": "TSMP Resourcepack",
-        "description": "Generated with https://github.com/OffsetMods538/Github-Resourcepack-Manager",
+        "description": "TotemSMP's Custom Textures",
     }
 }
